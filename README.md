@@ -9,8 +9,7 @@
     - [Processes, Files, and Misc.](#processes-files-and-misc)
     - [Networking](#networking)
 5. [Limitations and Assumptions](#limitations-and-assumptions)
-6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ## Introduction
 
